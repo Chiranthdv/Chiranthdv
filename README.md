@@ -27,8 +27,8 @@ Hi there! I'm Chiranth D V, a passionate Developer with a keen interest in Tech 
 
 ## 🌍 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chiranth-d-v-437221281/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-008000?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/rakshitha74zu/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/rakshithadv85951)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/xovM5xbf8Y/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-008000?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/chirantx5ji/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/chiranthdv45)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/SxeBuIRC69/)
 
 ⭐ *“Code is like humor. When you have to explain it, it’s bad.”*
