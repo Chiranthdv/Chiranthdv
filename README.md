@@ -35,13 +35,12 @@ Hi there! I'm Chiranth D V, a passionate Developer with a keen interest in Tech 
 
 
 ### Current Stats ⚡
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Chiranth-45&theme=radical&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chiranth-45&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chiranth-45&layout=compact&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Chiranthdv&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chiranthdv&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chiranthdv&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Chiranth-45&theme=react-dark&hide_border=true)
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Chiranthdv&theme=react-dark&hide_border=true)
 
-### Trophies 🏆
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Chiranth-45&theme=onedark)
+
 
 ![Custom Stats](https://path-to-your-custom-image.com)
