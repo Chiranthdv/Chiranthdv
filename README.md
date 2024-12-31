@@ -38,6 +38,7 @@ Hi there! I'm Chiranth D V, a passionate Developer with a keen interest in Tech 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chiranthdv&show_icons=true&theme=radical&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chiranthdv&layout=compact&theme=radical&hide_border=true)
 
-![Chiranth's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=chiranthdv&theme=github&hide_border=true)
+![Chiranth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chiranthdv&show_icons=true&theme=github)
+
 
 
