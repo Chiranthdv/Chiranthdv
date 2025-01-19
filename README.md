@@ -21,7 +21,7 @@ Hi there! I'm Chiranth D V, a passionate Developer with a keen interest in Tech 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)<br />
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Java](https://techstack-generator.vercel.app/java-icon.svg?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ## 🌍 Let's Connect!
